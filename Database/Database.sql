@@ -1,4 +1,5 @@
-CREATE DATABASE Shop 
+CREATE DATABASE Shop;
+Use Shop;
 
 GO
 
@@ -26,7 +27,7 @@ go
 create TABLE [Order](
     id INT  identity(1,1) PRIMARY KEY,
     user_id INT NOT NULL,
-    order_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    order_date datetime NOT NULL,
     status VARCHAR(255) NOT NULL,
     FOREIGN KEY (user_id) REFERENCES [User](id)
 );
