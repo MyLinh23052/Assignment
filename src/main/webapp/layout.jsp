@@ -8,6 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
 
   <body>
@@ -88,7 +89,7 @@
         <div class="row m-2">
           <div class="col-6 col-md-4">
             <div class="card text-bg-dark">
-              <img src="img/IPhone-demo.png" class="card-img" alt="Iphone 20">
+              <img src="img/test.png" class="card-img" alt="Iphone 20">
               <div class="card-img-overlay d-flex flex-column justify-content-end align-items-center">
                 <h5 class="card-title" style="font-size: larger;">IPhone 20</h5>
                 <p class="card-text">Dynamic Island bubbles up alerts and Live Activities — so you don’t
@@ -112,7 +113,7 @@
           </div>
           <div class="col-6 col-md-4">
             <div class="card text-bg-dark">
-              <img src="img/IPhone-demo.png" class="card-img" alt="Iphone 20">
+              <img src="img/test.png" class="card-img" alt="Iphone 20">
               <div class="card-img-overlay d-flex flex-column justify-content-end align-items-center">
                 <h5 class="card-title" style="font-size: larger;">IPhone 20</h5>
                 <p class="card-text">Dynamic Island bubbles up alerts and Live Activities — so you don’t
