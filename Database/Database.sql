@@ -70,6 +70,8 @@ CREATE TABLE [PromotionProducts]
 
 go
 
+go
+
 create TABLE [Order]
 (
     orderid INT identity(1999,12) PRIMARY KEY,
